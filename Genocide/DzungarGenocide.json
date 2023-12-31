@@ -1,0 +1,61 @@
+{
+  "event": "Dzungar Genocide",
+  "description": "The mass extermination of the Mongol Dzungar people by the Qing dynasty, ordered by the Qianlong Emperor following a rebellion led by Dzungar leader Amursana.",
+  "location": {
+    "general": "Dzungar Khanate",
+    "specific_areas": ["Dzungaria", "Western Mongolia", "Kazakhstan", "Northern Kyrgyzstan", "Southern Siberia", "Xinjiang"]
+  },
+  "date_range": "1755–1758",
+  "target_population": "Dzungars",
+  "attack_type": "Genocide",
+  "death_toll": {
+    "estimated_range": "420,000–480,000",
+    "percentage_of_population": "70%–80%"
+  },
+  "perpetrators": ["Qing Eight Banners", "Khalkha Mongols", "Kazakhs", "Uyghurs", "Hui rebels"],
+  "cause": {
+    "initial": "Rebellion in 1755 by Dzungar leader Amursana against Qing rule",
+    "support": "Manchu generals of the Qing army, supported by Turkic oasis dwellers"
+  },
+  "key_events": {
+    "Battle_of_Oroi-Jalatu": {
+      "year": "1756",
+      "description": "Chinese general Zhao Hui attacked the Dzungar camp at night, in present Wusu, Xinjiang"
+    }
+  },
+  "demographic_changes_post_genocide": {
+    "northern_Xinjiang_depopulation": "Depopulated following the genocide",
+    "resettlement": "Millions of ethnic Han Chinese, Hui, Central Asian oasis people (Uyghurs), and Manchu Bannermen in Dzungaria"
+  },
+  "cultural_and_political_impact": {
+    "promotion_of_Islam": "Crushing of the Buddhist Öölöd (Dzungars) led to the promotion of Islam and the empowerment of Muslim Begs in southern Xinjiang",
+    "Qing_naming": "Qing named the conquered territory Xinjiang and converted steppe grassland to farmland",
+    "demographic_distribution": "62% Uyghurs in the south, 30% Han and Hui in the north, and 8% various other minorities in Xinjiang during Qing period"
+  },
+  "scholarly_views": {
+    "Henry_Schwarz": "Proposed that the Qing victory was, in a certain sense, a victory for Islam",
+    "James_A_Millward": "Pointed out Qing agricultural colonies had nothing to do with Uyghurs and their land, directed Han settlers to non-Uyghur Dzungaria and Ürümqi"
+  },
+  "references": [
+    {
+      "Perdue_2009": "p. 285",
+      "Clarke_2004": "p. 37",
+      "Klimeš_2015": "ISBN 978-90-04-28809-6",
+      "Perdue_2005": "Chapters 3–7 describe the rise and fall of the Dzungar Khanate",
+      "Haines_2017": "The 'Military Revolution' Arrives on the Central Eurasian Steppe: The Unique Case of the Zunghar (1676 - 1745)",
+      "Millward_2007": "p. 95",
+      "Newby_2005": "ISBN 90-04-14550-8",
+      "Chu_1966": "The Moslem Rebellion in Northwest China 1862–1878",
+      "Powers_Templeman_2012": "p. 537",
+      "Tyler_2004": "p. 55",
+      "Levene_2008": "Empires, Native Peoples, and Genocides",
+      "Dani_Masson_UNESCO_2003": "ISBN 978-92-3-103876-1",
+      "Kim_2008": "Saintly Brokers: Uyghur Muslims, Trade, and the Making of Qing Central Asia",
+      "Toops_2004": "Demographics and Development in Xinjiang after 1949",
+      "Marks_2011": "China: Its Environment and History",
+      "Liu_Faure_1996": "Unity and Diversity: Local Cultures and Identities in China",
+      "Millward_1998": "Eurasian Crossroads: A History of Xinjiang",
+      "Zhao_2006": "Reinventing China Imperial Qing Ideology and the Rise of Modern Chinese National Identity in the Early Twentieth Century"
+    }
+  ]
+}
