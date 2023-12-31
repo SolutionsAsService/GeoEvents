@@ -1,0 +1,57 @@
+{
+  "event": "1804 Haiti massacre",
+  "description": "Massacre carried out by Afro-Haitian soldiers under orders from Jean-Jacques Dessalines against the European population in Haiti, predominantly French people, following the Haitian Declaration of Independence.",
+  "location": "First Empire of Haiti",
+  "date_range": "February 1804 – 22 April 1804",
+  "target": "European people (predominantly French people), mulattoes",
+  "attack_type": "Massacre, genocide",
+  "deaths": "3,000–5,000",
+  "perpetrators": "Army of Jean-Jacques Dessalines",
+  "exclusions": {
+    "Polish_Legionnaires": "Granted full citizenship and classified as Noir",
+    "Germans": "Granted full citizenship for not participating in the slave trade"
+  },
+  "theorizations": [
+    {
+      "authors": ["Nicholas Robins", "Adam Jones", "Dirk Moses"],
+      "theory": "Executions were a genocide of the subaltern, oppressed group using genocidal means to destroy oppressors."
+    },
+    {
+      "author": "Philippe Girard",
+      "theory": "Threat of reinvasion and reinstatement of slavery as reasons for the massacre."
+    }
+  ],
+  "american_impact": {
+    "awareness": "Well-known events in the United States with many Saint Dominican refugees settling in various cities.",
+    "fear_of_uprisings": "Spurred fears of potential uprisings in the Southern U.S. and polarized public opinion on the abolition of slavery."
+  },
+  "background": {
+    "slavery": "Henri Christophe's personal secretary attempted to explain the incident by referencing the cruel treatment of black slaves by white slaveholders in Saint-Domingue.",
+    "haitian_revolution": {
+      "description": "Enslaved Africans led by Dutty Boukman planned massacre of the French in Cap-Français. The revolution eventually led to French forces' defeat and Haiti's independence.",
+      "genocidal_consideration": "Genocide was openly considered as a strategy by both sides in the conflict."
+    }
+  },
+  "massacre_details": {
+    "execution_methods": "Squads of soldiers moved from house to house, torturing and killing entire families with silent weapons.",
+    "devastation": "Entire families were killed, with a total death toll between 3,000 and 5,000."
+  },
+  "aftermath": {
+    "effects_in_haiti": [
+      "White Haitian population was virtually eradicated, excluding certain groups granted amnesty.",
+      "Dessalines' actions were seen as a political necessity and act of vengeance."
+    ],
+    "effect_on_american_society": "Spurred fears of similar genocides in the U.S. and influenced public opinion on slavery and abolition."
+  },
+  "references": [
+    {
+      "source": "Dayan, Joan (1998). Haiti, History, and the Gods. University of California Press.",
+      "ISBN": "978-0-520-21368-5"
+    },
+    {
+      "source": "Girard, Philippe (2005a). 'Caribbean genocide: racial war in Haiti, 1802–4'. Patterns of Prejudice.",
+      "details": "39 (2: Colonial Genocide): 138–161."
+    },
+    // Additional references and citations as provided in the original text
+  ]
+}
