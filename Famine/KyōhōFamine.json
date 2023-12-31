@@ -1,0 +1,67 @@
+{
+  "event": "Kyōhō famine",
+  "japanese_name": "享保の大飢饉",
+  "description": "A devastating famine on the island of Kyushu during Emperor Nakamikado's reign in the Edo period, named after the Kyōhō era (1716–1736). Estimated to have begun in 1732 and lasted until 1733.",
+  "death_toll": {
+    "official_records": 12172,
+    "estimated": 169000
+  },
+  "location": "Kyushu, Japan",
+  "period": "1732-1733",
+  "emperor": "Nakamikado",
+  "shogun": "Tokugawa Yoshimune",
+  "causes": [
+    {
+      "description": "Unknown primary cause.",
+      "tax_increase": "Kyōhō Reforms increased taxes which may have reduced agricultural productivity and food stocks.",
+      "rice_quotas": "Obligatory rice buying quotas turned rice into a cash crop and reduced crop diversity.",
+      "oil_scarcity": "Scarcity of sesame and whale oil contributed to insect infestation severity."
+    }
+  ],
+  "famine_details": {
+    "beginning": "December 1731, heavy rains damaged winter cereal crops.",
+    "insect_infestation": "Either unka or locust infestation destroyed rice paddies across western Japan.",
+    "rice_harvest": "Total rice harvest in 1732 was only 27% of average.",
+    "animal_epidemic": "Epizootic in July 1732 affected draft animals in Fukuoka Domain.",
+    "price_increase": "Rice prices soared up to 5 to 7 times the normal value."
+  },
+  "impact": {
+    "Fukuoka_Domain": "Average population die-off was 20%.",
+    "Iyo-Matsuyama_Domain": "At least 5919 deaths from starvation, with people resorting to eating bracken, kudzu roots, and other non-traditional foods."
+  },
+  "notable_events": {
+    "Kyōhō_housebreaking": "Japan's first recorded strike action against merchant Takama Denbii for hoarding food."
+  },
+  "end": "March 1733",
+  "aftermath": {
+    "death_toll_speculation": "969,900 deaths according to Tokugawa Jikki, likely exaggerated.",
+    "sweet_potato_adoption": "The role of sweet potato in averting famine was noted and widely adopted across Japan.",
+    "shogunate_reforms": "Shogunate implemented reforms in 1735 to diversify crops."
+  },
+  "cultural_impact": {
+    "Sumidagawa_Fireworks_Festival": "Speculated to be established in response to the Kyōhō famine."
+  },
+  "impact_on_reforms": "The famine had a large negative impact on the Kyōhō Reforms.",
+  "references": [
+    {
+      "title": "The three major famines of Japanese history",
+      "author": "Alan Macfarlane"
+    },
+    {
+      "title": "江戸時代中期に起こった飢饉で、江戸四大飢饉（寛永・享保・天明・天保）の一つ。",
+      "source": "Japanese historical record"
+    },
+    {
+      "title": "享保の飢饉と横手【横手校区】横手享保飢饉地蔵",
+      "source": "Local historical document"
+    },
+    {
+      "title": "隅田川の花火大会と「タバコ」の関係とは（石田雅彦）",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "享保の大飢饉で吉宗改革が頓挫する",
+      "source": "Historical analysis"
+    }
+  ]
+}
