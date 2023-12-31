@@ -1,0 +1,62 @@
+{
+  "event": "Massacre of Salsipuedes",
+  "Spanish_name": "Masacre de Salsipuedes",
+  "description": "An organised campaign to eradicate the last remnants of the now extinct Charrúa people executed by the Uruguayan Army under the command of Uruguayan president Fructuoso Rivera.",
+  "location": "Banks of the Salsipuedes Creek, Uruguay",
+  "date_range": "April 1831",
+  "target": "Charrúa people",
+  "attack_type": "Massacre",
+  "deaths": "40 reported killed",
+  "captured": "300 taken prisoner",
+  "perpetrators": {
+    "army_commander": "Fructuoso Rivera",
+    "leading_group": "Bernabé Rivera, nephew to Fructuoso Rivera"
+  },
+  "campaign_details": {
+    "La_Campaña_de_Salsipuedes": {
+      "attacks": [
+        "El Paso del Sauce del Queguay",
+        "El Salsipuedes",
+        "La cueva del Tigre"
+      ],
+      "legend": "First attack was a betrayal where Charrúas were called to join forces but were attacked when off guard."
+    }
+  },
+  "aftermath": {
+    "prisoners_march": "Prisoners were forced to walk 260 km to Montevideo, where they were sold as slaves.",
+    "exhibited_in_Paris": "Four of the prisoners were sold and taken to Paris in 1833 to be exhibited in a human zoo.",
+    "memorial": "A monumental sculpture, Los Últimos Charrúas, built in Montevideo in memory of the four Charrúas."
+  },
+  "exclusions": {
+    "Polish_Legionnaires": "Given amnesty and Haitian citizenship for their support of Haitian independence.",
+    "Germans": "Not targeted and granted citizenship for not participating in the slave trade."
+  },
+  "notable_victims": {
+    "Senacua_Sénaqué": "Medicine man",
+    "Vaimaca-Pirú_Sira": "Warrior",
+    "Laureano_Tacuavé_Martínez": "Young man",
+    "María_Micaëla_Guyunusa": "Pregnant woman at the time of capture"
+  },
+  "cultural_impact": "The massacre and its aftermath were part of the broader historical narrative of the erasure and genocide of indigenous populations in the Americas.",
+  "references": [
+    {
+      "source": "LARED21",
+      "date": "2009-08-30",
+      "title": "Pruebas irrefutables demuestran el genocidio de la población charrúa",
+      "language": "Spanish"
+    },
+    {
+      "source": "EL PAÍS",
+      "author": "Pablo Albarenga",
+      "date": "2017-11-10",
+      "title": "Where did Uruguay's indigenous population go?"
+    },
+    {
+      "source": "The Prisma",
+      "author": "Wilfredo Alayón",
+      "date": "28 March 2011",
+      "title": "Uruguay and the memory of the Charrúa tribe"
+    },
+    // Additional references and citations as provided in the original text
+  ]
+}
