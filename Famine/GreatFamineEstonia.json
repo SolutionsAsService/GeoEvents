@@ -1,0 +1,53 @@
+{
+  "event": "The Great Famine of Estonia",
+  "also_known_as": "The Great Starvation",
+  "description": "A catastrophic famine that killed about a fifth of the Estonian and Livonian population (70,000–75,000 people) over two years due to severe climate conditions and poor policy decisions.",
+  "death_toll": {
+    "estimated": "70,000 to 75,000",
+    "percentage_of_population": "about a fifth"
+  },
+  "location": "Swedish Estonia",
+  "period": "1695-1698",
+  "climate_conditions": {
+    "general": "Part of the Little Ice Age with cold springs and summers, average temperatures were 1.5 °C lower during the 1690s.",
+    "specific": {
+      "1694": "Unfavorable for crops.",
+      "summer_1695": "Cold and rainy, followed by early autumn frost.",
+      "1696": "Continued cold conditions with summer rains."
+    }
+  },
+  "impact": {
+    "agricultural": {
+      "1692-1694": "Poor harvests due to shorter summers and longer winters.",
+      "summer_1695": "Excessive rain destroyed crops and hay.",
+      "winter_1695-96": "Extremely cold, delaying spring sowing.",
+      "summer_1696": "Heavy rains wrecked harvests, yielding as little as three percent in some areas."
+    },
+    "societal": {
+      "by_end_of_summer_1696": "Many peasants, farmhands, and even nobility were destitute and hungry.",
+      "autumn_1696": "Famine took hold, death rates began to rise.",
+      "winter_1696-97": "Corpses remained unburied until spring due to severe winter."
+    }
+  },
+  "regional_impact": {
+    "salt_shortage": "Impacted by colder climate and excessive rain in Portugal, leading to preservation issues for meat and fish.",
+    "grain_export": "Large quantities of grain were shipped to Sweden and Finland despite local famine."
+  },
+  "aftermath": {
+    "great_northern_war": "Peter the Great cited inadequate provisioning during the famine as a pretext for declaring war against Sweden in 1700."
+  },
+  "references": [
+    {
+      "title": "Great Historical Events That Were Significantly Affected by the Weather: 4, The Great Famines in Finland and Estonia",
+      "authors": "Neumann, J.; Lindgrén, S.",
+      "source": "Bulletin of the American Meteorological Society",
+      "year": 1979
+    },
+    {
+      "title": "Peter the great, Emperor of all Russia",
+      "author": "Grey, I.",
+      "publication": "Hodder and Stoughton",
+      "year": 1962
+    }
+  ]
+}
