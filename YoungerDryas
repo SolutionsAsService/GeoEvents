@@ -1,0 +1,42 @@
+{
+  "event_name": "Younger Dryas",
+  "time_period": {
+    "occurrence": "circa 12,900 to 11,700 years BP",
+    "post_last_glacial_maximum": "circa 27,000 to 20,000 years BP",
+    "pleistocene_epoch": "2,580,000 to 11,700 years BP"
+  },
+  "description": "The Younger Dryas was a return to glacial conditions which temporarily reversed the gradual climatic warming after the Last Glacial Maximum. It was the last stage of the Pleistocene epoch and preceded the current, warmer Holocene epoch. It was the most severe and longest-lasting of several interruptions to the warming of the Earth's climate.",
+  "preceding_period": "Late Glacial Interstadial (Bølling–Allerød interstadial) from 14,670 to 12,900 BP",
+  "climate_change": {
+    "temperature_decline": "4–10 °C (7.2–18 °F) in Greenland",
+    "glacial_advances": "true",
+    "drier_conditions": "over much of the temperate Northern Hemisphere"
+  },
+  "theories": [
+    {
+      "most_supported": "Interruption of the Atlantic meridional overturning circulation by an influx of fresh, cold water from North America into the Atlantic.",
+      "issues": "Lack of a clear geomorphological route for the meltwater."
+    },
+    {
+      "alternative": "Volcanic trigger",
+      "evidence": "High levels of volcanism immediately preceding the onset confirmed in ice cores and cave deposits."
+    }
+  ],
+  "regional_effects": {
+    "unequal_impact": "true",
+    "average_global_temperature_change": "drastic",
+    "specific_regions": {
+      "southern_hemisphere": "slight warming",
+      "southeastern_north_america": "slight warming"
+    }
+  },
+  "naming": {
+    "indicator_genus": "Dryas octopetala",
+    "significance": "Its leaves are occasionally abundant in late glacial, often minerogenic-rich sediments such as the lake sediments of Scandinavia."
+  },
+  "references": [
+    {
+      "temperature_graph": "Evolution of temperatures in the postglacial period, after the Last Glacial Maximum, based on Greenland ice cores."
+    }
+  ]
+}
