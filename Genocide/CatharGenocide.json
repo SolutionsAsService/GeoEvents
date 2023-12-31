@@ -1,0 +1,66 @@
+{
+  "event": "Cathar Genocide during the Albigensian Crusade",
+  "description": "A military and ideological campaign initiated by Pope Innocent III to eliminate Catharism in Languedoc, southern France, resulting in significant reduction of Cathars and realignment of the County of Toulouse with the French crown.",
+  "date": {
+    "start": "July 1209",
+    "end": "12 April 1229"
+  },
+  "location": "Languedoc, France",
+  "result": "Significant reduction of practicing Cathars, realignment of the County of Toulouse with the French crown, and diminishment of regional Languedoc culture.",
+  "belligerents": {
+    "crusade": ["Crusader volunteers", "Episcopal Inquisition", "Dominican Order", "Kingdom of France"],
+    "cathars": ["County of Toulouse", "Viscounty of Béziers and Albi", "Crown of Aragon", "County of Foix", "Kingdom of England", "Viscounty of Carcassonne"]
+  },
+  "commanders_and_leaders": {
+    "crusade": ["Simon de Montfort †", "Arnaud Amalric", "Amaury VI of Montfort", "Philip II of France", "Louis VIII of France"],
+    "cathars": ["Raymond Roger Trencavel (POW)", "Raymond VI of Toulouse", "Raymond VII of Toulouse", "Roger-Bernard II of Foix", "Peter II of Aragon †"]
+  },
+  "casualties_and_losses": "At least 200,000 to at most 1,000,000 Cathars killed",
+  "scholarly_view": "Considered by some scholars, including the coiner of the word genocide, Raphael Lemkin, to be an act of genocide against the Cathars.",
+  "cathar_beliefs": {
+    "origin": "Anti-materialist reform movement within Bogomil churches of the Balkans.",
+    "core_teachings": "Return to Christian message of perfection, poverty, and preaching, combined with a rejection of the physical.",
+    "conflicts_with_catholicism": "Theology was dualist, and several practices conflicted with Catholic doctrines, leading to accusations of Gnosticism."
+  },
+  "prelude": {
+    "condemnations": "Between 1022 and 1163, Cathars were condemned by eight local church councils.",
+    "third_lateran_council": "1179 repeated the condemnation and called for imprisonment and property confiscation.",
+    "innocent_III_response": "After the murder of his legate in 1208, declared a crusade against the Cathars, offering lands of heretics to French noblemen."
+  },
+  "campaign": {
+    "1209-1215": "Crusaders captured Cathar lands and crushed the movement.",
+    "1215-1225": "Revolt and regaining of lands by Cathars.",
+    "renewed_crusade": "Resulted in recapturing of territory and driving Catharism underground by 1244."
+  },
+  "institutional_outcomes": {
+    "dominican_order": "Created to promulgate the Church's message and prevent the spread of heresies.",
+    "medieval_inquisition": "Investigated accusations of heresy, eradicating discernible traces of Catharism by mid-14th century."
+  },
+  "historical_assessment": "Some historians consider the crusade against the Cathars an act of genocide.",
+  "references": [
+    {
+      "title": "The Inquisitor's Guide: A Medieval Manual on Heretics",
+      "author": "Gui, Bernard",
+      "year": 2006,
+      "isbn": "1905043090"
+    },
+    {
+      "title": "The Chronicle of William of Puylaurens: The Albigensian Crusade and its Aftermath",
+      "author": "Guillaume de Puylaurens",
+      "year": 2003,
+      "isbn": "0-85115-925-7"
+    },
+    {
+      "title": "The History of the Albigensian Crusade: Peter of les Vaux-de-Cernay's Historia Albigensis",
+      "author": "Peter of les Vaux de Cernay",
+      "year": 1998,
+      "isbn": "0-85115-807-2"
+    },
+    {
+      "title": "The Song of the Cathar Wars: A History of the Albigensian Crusade",
+      "author": "William of Tudela; Anonymous",
+      "year": 2004,
+      "isbn": "978-1351881715"
+    }
+  ]
+}
