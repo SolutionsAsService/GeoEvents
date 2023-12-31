@@ -1,0 +1,59 @@
+{
+  "event": "Moriori Genocide",
+  "context": "Musket Wars",
+  "description": "The mass murder and enslavement of the Moriori people by members of the Ngāti Mutunga and Ngāti Tama from mainland New Zealand on the Chatham Islands.",
+  "location": "Chatham Islands",
+  "date_range": "1835–1860s",
+  "target": "Moriori people",
+  "attack_type": "Genocide, invasion, enslavement",
+  "deaths": "300 reported killed",
+  "population_decline": {
+    "from": "1,700 in 1835",
+    "to": "100 in 1870"
+  },
+  "perpetrators": ["Ngāti Tama", "Ngāti Mutunga"],
+  "background": {
+    "Moriori": {
+      "origin": "Indigenous population of the Chatham Islands with Polynesian ancestry similar to Māori people.",
+      "population": "Peaked at around 2,000 divided among nine tribes.",
+      "non-violence": "Moriori chief Nunuku-whenua introduced a philosophy of non-violence known as Nunuku's Law."
+    },
+    "invaders": {
+      "origin": "Originally from Taranaki, had lost their land during the Musket Wars."
+    }
+  },
+  "invasion_details": {
+    "arrival": "Around 900 Māori people arrived in two waves in 1835.",
+    "initial_interaction": "Welcomed by the Moriori, enjoyed their hospitality before violence erupted.",
+    "violence_outbreak": "Around 300 Moriori were killed and many enslaved in a ritual that included extreme brutality."
+  },
+  "enslavement_period": {
+    "language_forbiddance": "Moriori language was forbidden.",
+    "sacred_site_desecration": "Forced Moriori to desecrate sacred sites.",
+    "marriage_and_procreation_restrictions": "Moriori were forbidden to marry Moriori or Māori or to have children."
+  },
+  "government_dealings": {
+    "Moriori_petitions": "Sought recognition of their status and restoration of their lands from the 1850s.",
+    "release_from_slavery": "Occurred via a proclamation by the resident magistrate of the Chatham Islands in 1863."
+  },
+  "modern_times": {
+    "Moriori_revival": "Began with a 1980 documentary which corrected myths about Moriori.",
+    "Waitangi_Tribunal_hearings": "Began in 1994 for recognition and compensation; sided with Moriori in 2001.",
+    "treaty_settlement": "In 2020, Parliament passed a treaty settlement including land transfer and compensation."
+  },
+  "references": [
+    {
+      "source": "E-Tangata",
+      "author": "Maui Solomon",
+      "date": "15 December 2019",
+      "title": "Moriori: Still setting the record straight"
+    },
+    {
+      "source": "The Spinoff",
+      "author": "Karl Mills",
+      "date": "3 August 2018",
+      "title": "The Moriori myth and why it's still with us"
+    },
+    // Additional references and citations as provided in the original text
+  ]
+}
