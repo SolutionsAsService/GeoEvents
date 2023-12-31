@@ -1,0 +1,68 @@
+{
+  "event": "Taíno Genocide",
+  "description": "A catastrophic decline in the population of the Taíno people of the Caribbean, particularly on the island of Hispaniola, due to European colonization, disease, exploitation, and forced labor.",
+  "location": "Hispaniola, Jamaica, Puerto Rico",
+  "early_population_estimates": {
+    "Hispaniola": {
+      "range": "10,000 to 1,000,000 people",
+      "revised_estimate_2020": "a few tens of thousands"
+    },
+    "Jamaica_and_Puerto_Rico": "up to 600,000 people"
+  },
+  "spanish_colonization": {
+    "primary_colonizer": "Spain",
+    "key_figures": ["Bartolomé de las Casas", "Ponce de León"],
+    "systems_imposed": {
+      "encomienda": "Forced many Taíno to work in fields and mines in exchange for protection, education, and seasonal salary.",
+      "forced_labor": "Introduced by Ponce de León, leading to Taíno rebellions."
+    }
+  },
+  "population_decline": {
+    "description": "In thirty years, between 80% and 90% of the Taíno population died.",
+    "by_1507": "Numbers had shrunk to 60,000.",
+    "causes": {
+      "disease": "Massive decline due to infectious diseases (smallpox, influenza, measles, typhus).",
+      "forced_labor": "Lethal forced labor in mines significantly contributed to deaths.",
+      "food_shortage": "Conversion of Taíno cultivation to Spanish methods and refusal by some Taínos to plant or harvest led to famine."
+    }
+  },
+  "scholarly_perspective": {
+    "doubts_on_early_estimates": "Researchers doubt Las Casas' figures for the pre-contact levels of the Taíno population.",
+    "comparison_to_european_rebound": "Lack of rebound for indigenous populations compared to Europe's post-Black Death recovery.",
+    "slavery_as_major_killer": "Slavery and exploitation on an enormous scale emerged as major killers of the Taíno people."
+  },
+  "cultural_impact": {
+    "Taíno_culture": "Deeply affected and significantly diminished due to the genocide and subsequent social changes.",
+    "historical_narratives": {
+      "Bartolomé_de_las_Casas": "Recorded the dramatic population decline and criticized the Spanish treatment of the Taíno."
+    }
+  },
+  "modern_assessment": {
+    "genocide_recognition": "Many historians and academics recognize the events as a form of genocide against the Taíno people.",
+    "forced_labor_impact": "Anthropologists and historians conclude that forced labor in mines was a significant cause of death."
+  },
+  "references": [
+    {
+      "title": "A Orillas del Mar Caribe: Boceto histórico de la Playa de Ponce",
+      "author": "Eli D. Oquendo-Rodríguez",
+      "year": 2017,
+      "isbn": "978-1547284931"
+    },
+    {
+      "title": "Caciques and Cemi Idols: The Web Spun by Taino Rulers Between Hispaniola and Puerto Rico",
+      "author": "José R. Oliver",
+      "year": 2009,
+      "isbn": "978-0-8173-5515-9"
+    },
+    {
+      "source": "Encyclopædia Britannica",
+      "year": 2018,
+      "title": "Taino"
+    },
+    {
+      "source": "University of California, Davis",
+      "author": "Andrés Reséndez",
+      "focus": "Disease alone does not explain the destruction of indigenous populations of Hispaniola."
+    }
+  ]
+}
