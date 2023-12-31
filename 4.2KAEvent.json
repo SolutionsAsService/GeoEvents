@@ -1,0 +1,54 @@
+{
+  "event_name": "4.2-kiloyear BP Aridification Event",
+  "alternative_names": ["4.2 ka event"],
+  "description": "One of the most severe climatic events of the Holocene epoch, defining the beginning of the current Meghalayan age in the Holocene epoch.",
+  "time_period": {
+    "start": "circa 2200 BC",
+    "duration": "entire 22nd century BC"
+  },
+  "global_distribution": {
+    "wet_conditions_or_flooding": "Hatched areas on the global distribution map",
+    "drought_or_dust_storms": "Dotted areas on the global distribution map"
+  },
+  "impacts": {
+    "civilizations_collapsed": [
+      {
+        "name": "Old Kingdom",
+        "location": "Egypt"
+      },
+      {
+        "name": "Akkadian Empire",
+        "location": "Mesopotamia"
+      },
+      {
+        "name": "Liangzhu culture",
+        "location": "Lower Yangtze River area"
+      },
+      {
+        "name": "Indus Valley Civilisation",
+        "location": "Indus Valley",
+        "notes": "Population moved southeastward to follow the movement of their desired habitat."
+      }
+    ],
+    "migration": {
+      "indo_european_speaking_people": "Into India"
+    }
+  },
+  "scientific_debate": [
+    {
+      "position": "Support",
+      "evidence": "Hypothesized to have caused the collapse of several ancient civilizations and migrations.",
+      "notes": "Widely accepted as a significant climatic event."
+    },
+    {
+      "position": "Oppose",
+      "evidence": "Some scientists cite evidence that the event was not a global drought and did not occur in a clear timeline.",
+      "notes": "Challenge the global extent and severity of the event."
+    }
+  ],
+  "references": [
+    {
+      "global_distribution_map": "Shows the hatched areas affected by wet conditions or flooding, and the dotted areas by drought or dust storms."
+    }
+  ]
+}
