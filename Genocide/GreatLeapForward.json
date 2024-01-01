@@ -1,0 +1,69 @@
+{
+  "Great_Leap_Forward": {
+    "Chinese_name": "大跃进",
+    "description": "Economic and social campaign in the People's Republic of China from 1958 to 1962 aimed at transforming an agrarian economy into an industrialized society.",
+    "period": "1958-1962",
+    "location": "China",
+    "type": ["Famine", "Economic mismanagement"],
+    "causes": ["Central planning", "Collectivization policies"],
+    "motive": "Economic collectivisation of agriculture, realisation of socialism",
+    "deaths": "15-55 million",
+    "leadership": {
+      "Mao_Zedong": {
+        "role": "Party Chairman",
+        "actions": ["Launched the campaign", "Decreed increased grain yields and industry in the countryside", "Did not retreat from policies but blamed problems on bad implementation and 'rightists'"],
+        "leadership_shift": "Ceded day-to-day leadership in 1959 to Liu Shaoqi and Deng Xiaoping"
+      }
+    },
+    "policies": {
+      "agricultural_collectivization": {
+        "description": "Incremental introduction of mandatory agricultural collectivization. Private farming was prohibited.",
+        "impact": ["Persecution of private farmers", "Restrictions enforced with public struggle sessions, social pressure, and forced labor", "Development aborted by the mistakes of the Great Leap Forward"]
+      },
+      "industrialization": {
+        "description": "Aimed to bring industry to the countryside, particularly through backyard furnaces.",
+        "impact": ["Led to poor quality steel production", "Diverted labor from agriculture"]
+      },
+      "economic_policy": "Enormous investments produced modest or no production increases. Considered a very expensive disaster."
+    },
+    "consequences": {
+      "famine": {
+        "description": "Millions of people died due to policy failures, mismanagement, and suppression of dissent.",
+        "death_toll_estimates": ["15 million", "55 million"],
+        "factors": ["Forced labor", "Poor agricultural policies", "Misreporting of grain production"]
+      },
+      "economic": {
+        "description": "One of two periods between 1953 and 1976 where China's economy shrank.",
+        "specifics": ["Massive deficit led to cut in industrial investment", "Rapid expansion led to coordination issues and material shortages"]
+      },
+      "social_and_political": {
+        "impact_on_rural_life": "Destruction of traditional practices, increased state control, and persecution labeled as counter-revolutionaries.",
+        "internal_conflicts": ["Hundred Flowers Campaign", "Anti-Rightist Campaign", "Lushan Conference"],
+        "leadership_changes": ["Mao Zedong's temporary step down", "Rise of Liu Shaoqi and Deng Xiaoping", "Purge and replacement of Peng Dehuai"]
+      }
+    },
+    "recovery_and_long_term_effects": {
+      "recovery_measures": {
+        "restoration_of_agricultural_production": "Started in 1961, reversing Great Leap policies.",
+        "international_aid": "Grain imports from Canada and Australia helped alleviate some food shortages."
+      },
+      "long_term_impacts": {
+        "economic": "Lessons from the Great Leap informed future policies and slowed down the pace of industrialization.",
+        "social": "Transformation of rural life and labor, including increased opportunities for women's labor advancement."
+      }
+    },
+    "death_estimates_and_analysis": {
+      "estimates": [
+        {"source": "Houser, Sands, and Xiao", "year": "2005", "deaths": "15 million"},
+        {"source": "Yao", "year": "1999", "deaths": "18 million"},
+        // ... Additional estimates ...
+        {"source": "Yu Xiguang", "year": "2005", "deaths": "55 million"}
+      ],
+      "methods_of_estimation": ["Comparison of age cohorts from censuses", "Analysis of yearly birth and death records", "Use of provincial-level demographic data"],
+      "sources_of_error": ["Inaccurate national census data", "Complete breakdown in the statistical reporting system", "Under-reporting of deaths"]
+    },
+    "references": [
+      // ... References ...
+    ]
+  }
+}
