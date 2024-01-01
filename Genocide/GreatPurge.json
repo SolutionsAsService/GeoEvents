@@ -1,0 +1,52 @@
+{
+  "Great_Purge": {
+    "aliases": ["Great Terror", "Year of '37", "Yezhovshina"],
+    "period": "1936-1938",
+    "location": ["Soviet Union", "East Turkestan", "Mongolian People's Republic"],
+    "targets": ["Political opponents", "Trotskyists", "Red Army leadership", "Kulaks", "Religious activists and leaders"],
+    "attack_types": ["Summary executions", "Massacres", "Mass murder", "Ethnic cleansing"],
+    "death_toll": "700,000 to 1.2 million",
+    "perpetrators": [
+      {
+        "Joseph_Stalin": {
+          "role": "Soviet General Secretary",
+          "motive": ["Elimination of political opponents", "Consolidation of power"]
+        },
+        "NKVD": ["Genrikh Yagoda", "Nikolai Yezhov", "Lavrentiy Beria", "Ivan Serov"],
+        "others": ["Vyacheslav Molotov", "Andrey Vyshinsky", "Lazar Kaganovich", "Kliment Voroshilov", "Robert Eikhe"]
+      }
+    ],
+    "background": {
+      "post_Lenin_power_vacuum": "Struggle for power following Lenin's death in 1924",
+      "Stalin_rise_to_power": "Triumph over political opponents and control of the party by 1928",
+      "Kirov_assassination": "Led to an investigation revealing a network of party members working against Stalin"
+    },
+    "operations": [
+      {
+        "Moscow_trials": {
+          "description": "Show trials of leading Bolshevik party members",
+          "targets": ["Old Bolsheviks", "Government officials", "Military high command"],
+          "methods": ["Imprisonment", "Torture", "Violent interrogation", "Arbitrary executions"]
+        },
+        "ethnic_operations": "Targeted certain ethnic minorities with forced deportation and repression",
+        "military_purge": "Removal of Red Army and military high command, significantly impacting military capabilities"
+      }
+    ],
+    "impact": {
+      "political": "Elimination of perceived threats to Stalin's power and silencing of political dissent",
+      "social": "Widespread fear and mistrust among the populace, decimation of the intelligentsia and cultural figures",
+      "military": "Weakening of military leadership and capabilities"
+    },
+    "aftermath": {
+      "Stalin_reversal": "1938 declaration that internal enemies had been removed, criticism of NKVD's methods",
+      "long_term_effects": "Continuation of atmosphere of mistrust and surveillance, impact on Soviet society and governance"
+    },
+    "memorials_and_rehabilitation": {
+      "post_Stalin_denouncement": "Denounced by Nikita Khrushchev and subsequent rehabilitation of many victims",
+      "memorials": "Mass graves turned into memorial sites, recognition of the crimes of the Soviet regime"
+    },
+    "references": [
+      // ... Add references here ...
+    ]
+  }
+}
