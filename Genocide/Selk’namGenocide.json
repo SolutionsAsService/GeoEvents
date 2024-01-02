@@ -1,0 +1,80 @@
+{
+  "Title": "Selk'nam Genocide",
+  "Location": "Tierra del Fuego, Argentina and Chile",
+  "Time_Period": "Late 19th to early 20th century",
+  "Victims": "Selk'nam tribe",
+  "Population_Decline": {
+    "1880s": "Approx. 4,000",
+    "1930": "Approx. 100"
+  },
+  "Attack_Types": [
+    "Genocidal massacre",
+    "Internment",
+    "Bounty killings"
+  ],
+  "Perpetrators": [
+    "Julius Popper",
+    "Ramón Lista",
+    "José Menéndez",
+    "Sociedad Explotadora de Tierra del Fuego"
+  ],
+  "Motive": "Utilitarian genocide - Land and resource acquisition",
+  "Background": {
+    "Population_Estimate_Pre-Genocide": "3,000 to 4,000",
+    "Culture": "Semi-nomadic hunting and gathering",
+    "Location_Details": "Northeastern part of Isla Grande de Tierra del Fuego"
+  },
+  "Genocide_Timeline": {
+    "Late_19th_Century": "Introduction of sheep ranches and resistance by the Selk'nam",
+    "Massacres_Begin": "Northern groups first affected leading to migration and clashes",
+    "Religious_Missions": "Establishment of Salesian missions and deportation to Dawson Island",
+    "Early_20th_Century": "Continued repression and confinement to missions"
+  },
+  "Effects": {
+    "Cultural_Impact": "Assimilation and extinction of traditional culture",
+    "Population_Decline": "From approx. 4,000 to 100",
+    "Language_Extinction": "Ona language extinct by 1980s"
+  },
+  "Notable_Perpetrators_And_Actions": [
+    {
+      "Name": "Julius Popper",
+      "Role": "Conducted bounty killings and exhibited corpses"
+    },
+    {
+      "Name": "Ramón Lista",
+      "Role": "Military actions against Selk'nam"
+    },
+    {
+      "Name": "José Menéndez",
+      "Role": "Financed violent campaigns against Selk'nam"
+    }
+  ],
+  "Genocide_Trial": {
+    "Judge": "Waldo Seguel",
+    "Outcome": "Few convictions, mostly farmworkers, major stakeholders not prosecuted"
+  },
+  "References": [
+    {
+      "Gardini_Walter": "Restoring the Honour of an Indian Tribe",
+      "Chapman_Anne": "European Encounters with the Yamana People of Cape Horn"
+    }
+  ],
+  "Bibliography": [
+    {
+      "Title": "The Struggle for Social Life in Fuego Patagonia",
+      "Author": "Alfredo Prieto"
+    },
+    {
+      "Title": "Atlas of the World's Languages in Danger",
+      "Author": "Willem Adelaar"
+    },
+    {
+      "Title": "Latin American Indigenous Warfare and Ritual Violence",
+      "Author": "Edward Chacon (ed.)"
+    },
+    {
+      "Title": "Nomadic Peoples and Human Rights",
+      "Author": "Jérémie Gilbert"
+    }
+  ]
+}
