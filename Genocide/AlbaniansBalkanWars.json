@@ -1,0 +1,58 @@
+{
+  "Massacres_of_Albanians_in_the_Balkan_Wars": {
+    "Overview": {
+      "Time_Period": "1912-1913",
+      "Location": ["Scutari Vilayet", "Kosovo Vilayet", "Manastir Vilayet", "Janina Vilayet"],
+      "Target": "Albanians",
+      "Attack_Type": ["Genocidal massacres", "Ethnic cleansing", "Mutilation", "Forced conversions", "Death marches"],
+      "Deaths": "120,000–270,000",
+      "Perpetrators": ["Kingdom of Serbia", "Kingdom of Montenegro", "Chetniks", "Greek paramilitaries"],
+      "Motive": ["Albanophobia", "Greater Serbia", "Islamophobia", "Anti-Catholicism"]
+    },
+    "Incidents": {
+      "Prishtina_Massacres": "Albanian civilians taken prisoner and killed by the Serbian army in 1912",
+      "Village_Destructions": "Over 235 villages burned down by Serb and Montenegrin forces"
+    },
+    "Victim_Details": {
+      "Total_Estimated_Deaths": "120,000-270,000",
+      "By_Region": {
+        "Kosovo": "at least 50,000",
+        "Albania": "up to 100,000 Muslims"
+      },
+      "Ethnic_Cleansing": {
+        "Expelled_Albanians": "60,000–300,000 above the age of six from Old Serbia by 1914",
+        "Homeless_Albanians_in_northern_Albania": "approx. 125,000"
+      }
+    },
+    "Perpetrator_Details": {
+      "Serbian_Army": "Generated fear leading to tragic responses by Albanian civilians",
+      "Individuals": ["General Carlos Popovitch", "Serbian Generals Datidas Arkan and Bozo Jankovic"],
+      "Actions": ["Massacres", "Burning of villages", "Forced expulsions"]
+    },
+    "Causes": {
+      "Historical_Hostilities": "Long-standing animosity between Serbs and Albanians",
+      "Political_Motives": ["Desire for a Greater Serbia", "Statistical manipulation before the London Ambassadors Conference"]
+    },
+    "Effects": {
+      "Death_Toll": "Estimates range from 120,000 to 270,000",
+      "Population_Displacement": "Hundreds of thousands of Albanians expelled or fled",
+      "International_Reactions": ["Carnegie Commission findings", "Media coverage in Europe and America"],
+      "Long_Term_Impact": ["Continued persecution in WWI", "Shaping of Serbian and Albanian national identities"]
+    },
+    "Sources": {
+      "Contemporary_Reports": ["New York Times", "Carnegie Commission", "Leo Freundlich"],
+      "Scholarly_Estimates": ["Justin McCarthy", "Jing Ke"],
+      "Eyewitness_Accounts": ["Serbian journalist Kosta Novaković", "American relief commissioner Willard Howard"]
+    },
+    "Legality_and_Denial": {
+      "Serbian_Government_Memorandum": "Denial of atrocities in 1913",
+      "Serbian_Orthodox_Church_Memorandum": "Denial of expulsion of Albanian population",
+      "International_Law": "Discussion of the incidents under the laws of war and genocide"
+    },
+    "Aftermath": {
+      "Refugees": "Many fled to Istanbul, Anatolia, and Albania",
+      "Continued_Conflict": "Ohrid–Debar uprising and repression",
+      "Treaty_of_London": "Assignment of former Ottoman lands and recognition of an independent Albania"
+    }
+  }
+}
