@@ -1,0 +1,83 @@
+{
+  "Title": "Circassian Genocide",
+  "Native_Name": "Ubykh: ЦӀыцӀэкӀун",
+  "Description": "Systematic mass murder, ethnic cleansing, and expulsion of the Circassian population by the Russian Empire during the final stages of the Russo-Circassian War.",
+  "Part_of": "Russo-Circassian War",
+  "Location": "Circassia under Russian invasion",
+  "Time_Period": {
+    "Start_Year": 1800,
+    "End_Year": "1870s",
+    "Details": "Systematic massacre started by early 1800s; deportation to the Ottoman Empire between 1864 and 1870s"
+  },
+  "Targets": "Circassians and other Muslim peoples of the Caucasus",
+  "Attack_Types": [
+    "Genocidal massacres",
+    "Genocidal rape",
+    "Deportation",
+    "Torture",
+    "Death march",
+    "Ethnic cleansing"
+  ],
+  "Deaths": {
+    "Russian_Massacres": "1,000,000 to 1,500,000",
+    "Death_March_Fleeing": "500,000"
+  },
+  "Victims": {
+    "Deported_Expelled": "1,000,000–1,500,000",
+    "Percentage_Affected": "95–97% of total Circassian population"
+  },
+  "Perpetrator": "Russian Empire",
+  "Motive": [
+    "Imperialism",
+    "Anti-Muslim sentiment",
+    "Russification",
+    "Christianization"
+  ],
+  "Aftermath": {
+    "Population_Loss": "94–97%",
+    "Displaced": {
+      "Total": "1 to 1.5 million",
+      "Reached_Land": "About half",
+      "Settled": "Primarily in the Ottoman Empire"
+    },
+    "Russian_Census_Post_Genocide": "106,798 Circassians (Russian records)"
+  },
+  "International_Recognition": {
+    "Georgia": "Recognizes as genocide",
+    "Russia": "Denies and classifies as migration"
+  },
+  "Commemoration": {
+    "Circassian_Day_of_Mourning": "21 May",
+    "Global_Protests": [
+      "Kayseri",
+      "Amman",
+      "Istanbul"
+    ]
+  },
+  "References": [
+    {
+      "Number": "9",
+      "Detail": "General reference to Circassian genocide"
+    },
+    {
+      "Number": "14",
+      "Detail": "Estimate of 1 to 1.5 million deaths"
+    },
+    {
+      "Number": "15",
+      "Detail": "Context of Russo-Circassian War"
+    },
+    {
+      "Number": "16",
+      "Detail": "Affected Muslim peoples of the Caucasus"
+    },
+    {
+      "Number": "39",
+      "Detail": "Georgia's recognition of the genocide"
+    },
+    {
+      "Number": "40",
+      "Detail": "Russia's denial of the genocide"
+    }
+  ]
+}
