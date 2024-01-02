@@ -1,0 +1,97 @@
+{
+  "Title": "California Genocide",
+  "Description": "A series of systematized killings and atrocities committed against Indigenous peoples of California by United States government agents and private citizens in the 19th century.",
+  "context": "California Indian Wars",
+  "Location": "California",
+  "Time_Period": {
+    "Start_Year": 1846,
+    "End_Year": 1873
+  },
+  "Targets": "Indigenous Californians",
+  "Attack_Types": [
+    "Genocide",
+    "Ethnic cleansing",
+    "Human hunting",
+    "Slavery",
+    "Rape",
+    "Indian removal"
+  ],
+  "Death_Estimates": [
+    {
+      "Source": "Anderson",
+      "Estimate": "No more than 2,000"
+    },
+    {
+      "Source": "Cook",
+      "Estimate": "4,300"
+    },
+    {
+      "Source": "California Secretary of State",
+      "Estimate": "4,500"
+    },
+    {
+      "Source": "Madley",
+      "Estimate": "9,492–16,094"
+    },
+    {
+      "Source": "Castillo/California Native American Heritage Commission",
+      "Estimate": "100,000+"
+    }
+  ],
+  "Injured_Estimates": {
+    "Forced_Laborers": "10,000–27,000",
+    "Child_Laborers": "4,000–7,000"
+  },
+  "Perpetrators": [
+    "United States Army",
+    "California State Militia",
+    "White American settlers"
+  ],
+  "Population_Impact": {
+    "1848_Population": "Perhaps as many as 150,000",
+    "1870_Population": "30,000",
+    "1900_Population": "16,000"
+  },
+  "Government_Actions": "Favored white settlers' rights over Indigenous rights, dispossessing natives.",
+  "Academic_And_Activist_Recognition": "Several American academics and activist organizations have characterized the period following the U.S. Conquest of California as genocide against Native Americans.",
+  "Official_Apology": {
+    "Year": 2019,
+    "By": "California's governor Gavin Newsom",
+    "Action": "Apologized for the genocide and called for a research group to be formed to understand the topic better."
+  },
+  "References": [
+    {
+      "Author": "Browne, J. Ross",
+      "Date": "August 1861",
+      "Title": "The Coast Rangers of California",
+      "Source": "Harper's New Monthly Magazine"
+    },
+    {
+      "Source": "Butte Record",
+      "Date": "October 18, 1856"
+    },
+    {
+      "Source": "California Legislature",
+      "Year": 1860,
+      "Title": "Majority and Minority Reports of the Special Joint Committee on the Mendocino War"
+    },
+    {
+      "Authors": "Carranco, Lynwood; Beard, Estle",
+      "Year": 1981,
+      "Title": "Genocide and Vendetta, the Round Valley Wars of North California",
+      "Publisher": "University of Oklahoma"
+    },
+    {
+      "Author": "Chapman, Charles E.",
+      "Year": 1921,
+      "Title": "A History of California; The Spanish Period",
+      "Publisher": "The MacMillan Company"
+    },
+    {
+      "Author": "Engelhardt, Zephyrin",
+      "Year": 1922,
+      "Title": "San Juan Capistrano Mission",
+      "Publisher": "Standard Printing Co."
+    }
+  ]
+}
