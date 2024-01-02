@@ -1,0 +1,110 @@
+{
+  "Title": "Uyghur Genocide",
+  "Context": "A series of ongoing human rights abuses against Uyghurs and other ethnic and religious minorities in Xinjiang by the Chinese government.",
+  "Part_of": "Xinjiang conflict",
+  "Location": {
+    "Area": "Xinjiang, China"
+  },
+  "Time_Period": {
+    "Start_Year": 2014,
+    "Status": "Ongoing"
+  },
+  "Targets": [
+    "Uyghurs",
+    "Kazakhs",
+    "Kyrgyz",
+    "Other Turkic Muslims"
+  ],
+  "Attack_Types": [
+    "Internment",
+    "Forced abortion",
+    "Forced sterilization",
+    "Forced birth control",
+    "Forced labor",
+    "Torture",
+    "Brainwashing",
+    "Alleged rape (including gang rape)"
+  ],
+  "Victims": {
+    "Estimated_Detained": "≥1 million"
+  },
+  "Perpetrator": "Government of the People's Republic of China",
+  "Motive": [
+    "Counterterrorism (official)",
+    "Sinicization",
+    "Islamophobia",
+    "Suppression of political dissent"
+  ],
+  "Government_Policies": [
+    "Forced labor",
+    "Suppression of Uyghur religious practices",
+    "Political indoctrination",
+    "Forced sterilization",
+    "Forced contraception",
+    "Forced abortion"
+  ],
+  "Cultural_Impact": {
+    "Mosques_Damaged": "Est. 16,000 razed or damaged",
+    "Children_Separated": "Hundreds of thousands",
+    "Birth_Rate_Decline": {
+      "Hotan_and_Kashgar": "Over 60% (2015-2018)",
+      "Xinjiang": "24% decrease in 2019"
+    }
+  },
+  "International_Assessment": {
+    "UN_Human_Rights_Office": "May be crimes against humanity, did not use the term genocide",
+    "Countries_Criticizing": "39 UN member states (2020)",
+    "Countries_Supporting": "45 countries supporting China's measures",
+    "International_Criminal_Court": "Dismissed case due to jurisdictional limitations"
+  },
+  "US_Declaration": {
+    "Genocide_Declaration_Date": "January 19, 2021",
+    "State_Department_Findings": "Insufficient evidence for genocide characterization"
+  },
+  "Parliamentary_Motions": {
+    "Countries_Describing_as_Genocide": [
+      "Canada",
+      "Netherlands",
+      "United Kingdom",
+      "Lithuania",
+      "France"
+    ],
+    "Countries_Condemning_Human_Rights_Abuses": [
+      "New Zealand",
+      "Belgium",
+      "Czech Republic"
+    ]
+  },
+  "Chinese_Government_Denial": true,
+  "References": [
+    {
+      "Author": "Abbas, Rushan",
+      "Year": 2021,
+      "Title": "The Rise of Global Islamophobia and the Uyghur Genocide",
+      "Source": "The Brown Journal of World Affairs",
+      "Volume": 28,
+      "Issue": 1
+    },
+    {
+      "Author": "Khatchadourian, Raffi",
+      "Date": "5 April 2021",
+      "Title": "Surviving the Crackdown in Xinjiang",
+      "Source": "The New Yorker"
+    },
+    {
+      "Author": "Finley, Joanne",
+      "Year": 2020,
+      "Title": "Why Scholars and Activists Increasingly Fear a Uyghur Genocide in Xinjiang",
+      "Source": "Journal of Genocide Research",
+      "Volume": 23,
+      "Issue": 3,
+      "DOI": "10.1080/14623528.2020.1848109"
+    },
+    {
+      "Author": "Kirby, Jen",
+      "Date": "25 September 2020",
+      "Title": "Concentration camps and forced labor: China's repression of the Uighurs, explained",
+      "Source": "Vox"
+    }
+  ]
+}
