@@ -1,0 +1,69 @@
+{
+  "Cambodian_Genocide": {
+    "Summary": "The Cambodian genocide was a systematic persecution and killing of Cambodian citizens by the Khmer Rouge under the leadership of Pol Pot, resulting in 1.5 to 2 million deaths from 1975 to 1979, nearly a quarter of Cambodia's 1975 population.",
+    "Context": {
+      "Part_Of": "Cold War in Asia and the aftermath of the Cambodian Civil War",
+      "Location": "Democratic Kampuchea",
+      "Date_Range": "17 April 1975 – 7 January 1979",
+      "Perpetrators": "Khmer Rouge",
+      "Motive": [
+        "Communism",
+        "Year Zero",
+        "Khmer ethnonationalism",
+        "Anti-Christian sentiment",
+        "Islamophobia",
+        "State atheism",
+        "Anti-intellectualism"
+      ],
+      "Support": "Predominantly from China, including significant economic and military aid"
+    },
+    "Victims": {
+      "Total_Deaths": "1.5 to 2 million",
+      "Percentage_of_Population": "Nearly 25%",
+      "Specific_Groups": [
+        "Previous military and political leadership",
+        "Business leaders",
+        "Journalists",
+        "Students",
+        "Doctors",
+        "Lawyers",
+        "Intellectuals",
+        "Religious and ethnic minorities"
+      ],
+      "Mass_Graves": {
+        "Total": "23,745",
+        "Suspected_Victims": "Approximately 1.3 million"
+      }
+    },
+    "Trials_and_Convictions": {
+      "Khmer_Rouge_Tribunal": "Established in 2003, trials began in 2009",
+      "Convictions": [
+        {
+          "Name": "Kaing Guek Eav (alias Duch)",
+          "Charges": "Crimes against humanity and grave breaches of the 1949 Geneva Conventions",
+          "Sentence": "Life imprisonment"
+        },
+        {
+          "Name": "Nuon Chea and Khieu Samphan",
+          "Charges": "Crimes against humanity, grave breaches of the Geneva Conventions, and genocide",
+          "Sentence": "Life imprisonment"
+        }
+      ]
+    },
+    "References": [
+      {
+        "Number": "[1]",
+        "Detail": "Estimates of total deaths and population percentage"
+      },
+      {
+        "Number": "[3][4][5]",
+        "Detail": "Contextual details about the genocide"
+      },
+      {
+        "Number": "[11][12][13]",
+        "Detail": "Information on support from China"
+      }
+      // More references...
+    ]
+  }
+}
