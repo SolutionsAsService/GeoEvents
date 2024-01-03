@@ -1,0 +1,60 @@
+{
+  "Zanzibar_Revolution": {
+    "Summary": "The Zanzibar Revolution in January 1964 led to the overthrow of the Sultan of Zanzibar and his mainly Arab government by the island's majority Black African population.",
+    "Context": {
+      "Location": "Zanzibar",
+      "Date": "12 January 1964",
+      "Result": [
+        "Revolutionary victory",
+        "Fall of the Sultanate of Zanzibar",
+        "Establishment of the People's Republic of Zanzibar",
+        "Mass deportations and massacres of ethnic Arabs"
+      ],
+      "Belligerents": {
+        "Revolutionaries": ["Afro-Shirazi Party", "Umma Party"],
+        "Sultanate": "Zanzibar Sultanate"
+      },
+      "Commanders_and_leaders": {
+        "Revolutionaries": "John Okello",
+        "Sultanate": ["Sultan Jamshid bin Abdullah", "Muhammad Shamte Hamadi"]
+      },
+      "Strength": "600–800 men",
+      "Casualties": {
+        "During_Revolution": "At least 80 killed and 200 injured (majority Arabs)",
+        "Aftermath": "2,000–4,000 (up to 20,000) civilians killed"
+      }
+    },
+    "Background": {
+      "Political_Landscape": "Ethnically diverse with a history of Arab rule. It became fully independent in 1963. The Arab minority retained power due to electoral manipulation despite African majority.",
+      "Racial_Tensions": "African majority felt underrepresented and oppressed by the Arab elite, setting the stage for a revolution."
+    },
+    "Revolution": {
+      "Description": "Led by John Okello, around 600–800 insurgents attacked Unguja's police stations and then Zanzibar Town, overthrowing the Sultan and his government. This led to the massacre of Arabs and looting of properties.",
+      "Key_Events": [
+        "Overrunning of police force",
+        "Capture of strategic locations",
+        "Sultan and government officials fled"
+      ]
+    },
+    "Aftermath": {
+      "New_Government": "ASP and Umma parties established an interim government with Abeid Karume as president.",
+      "Violence": "Reprisals against Arab and Asian population included beatings, rapes, murders, and property attacks.",
+      "Merger": "Zanzibar merged with Tanganyika to form Tanzania, judged as an attempt to prevent communist subversion."
+    },
+    "Foreign_Reaction": {
+      "Western_Concerns": "Apparent communist ties of the new government concerned Western powers, leading to various military intervention plans which were ultimately not executed.",
+      "Recognition": "The new government was recognized by Eastern Bloc and communist countries, adding to the geopolitical tension."
+    },
+    "British_Military_Response": {
+      "Plans": "Various operations (Parthenon, Boris, Finery) were drawn up for potential intervention but were not enacted.",
+      "Concerns": "Worries about the emergence of an African communist state and the safety of foreign nationals were primary concerns."
+    },
+    "Legacy": {
+      "Political": "Ended over 250 years of Arab dominance in Zanzibar, with annual commemorations and a public holiday.",
+      "Cultural": "The revolution has significantly impacted Zanzibar's identity, politics, and international relations."
+    },
+    "References": [
+      // List of references as provided in the original text
+    ]
+  }
+}
