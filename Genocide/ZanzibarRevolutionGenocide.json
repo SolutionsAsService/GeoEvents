@@ -1,0 +1,56 @@
+{
+  "Zanzibar_Revolution_Genocide": {
+    "Summary": "In January 1964, during and following the Zanzibar Revolution, Arab residents of Zanzibar were targeted for violence by the island's majority Black African population, resulting in mass murder, rape, torture, and deportation.",
+    "Context": {
+      "Part_Of": ["Zanzibar Revolution", "Decolonization of Africa" ]
+      "Location": "Sultanate of Zanzibar",
+      "Date": "January 1964",
+      "Target": "Arab population of Zanzibar",
+      "Attack_Type": [
+        "Genocide",
+        "Ethnic cleansing",
+        "Mass murder",
+        "Genocidal rape",
+        "Hate crime"
+      ],
+      "Perpetrators": "Black African rebel militiamen",
+      "Motive": [
+        "Anti-Arab racism",
+        "Islamophobia",
+        "African nationalism"
+      ],
+      "Public_Perception": "The massacre is largely forgotten and undiscussed, often downplayed or not mentioned during public commemorations of the revolution."
+    },
+    "Background": {
+      "Arab_Influence": "Arab settlement in Zanzibar dates back over 1,000 years, with Arabs ousting Portuguese rule and establishing dominance. The Sultanate of Zanzibar was ruled by an Arab sultan and a largely Arab ruling class.",
+      "Racial_Tensions": "Despite the abolition of slavery in 1897, the Arab elite often viewed the Black majority as inferiors, leading to widespread resentment and racial hatred among the Black population."
+    },
+    "Massacre": {
+      "Description": "Following the Zanzibar Revolution, Black African militiamen under the Afro-Shirazi Party and Umma Party targeted Arabs, leading to mass murder, rape, torture, and deportation. Islamic heritage and properties were also attacked and destroyed.",
+      "Witness_Accounts": "American diplomat Don Petterson described the killings as an act of genocide, with thousands of unarmed Arab civilians murdered and properties looted."
+    },
+    "Death_Toll": {
+      "Estimated_Range": "13,000 to 20,000+ killed",
+      "Deported": "100,000 deported",
+      "Sources": "Estimates from various scholars and ousted government officials."
+    },
+    "References": [
+      {
+        "Title": "Race, Class, and Power: Ideology and Revolutionary Change in Plural Societies",
+        "Author": "Leo Kuper",
+        "Detail": "Discusses the racial and class dynamics leading to the violence."
+      },
+      {
+        "Title": "The 1964 Zanzibar Genocide: The Politics of Denial",
+        "Author": "Abdullah Ali Ibrahim",
+        "Detail": "Examines the political denial of the genocide."
+      },
+      {
+        "Title": "Zanzibar's forgotten legacy of slavery and ethnic cleansing",
+        "Author": "Amr Salahi",
+        "Detail": "Highlights the historical context and aftermath of the massacre."
+      }
+      // More references...
+    ]
+  }
+}
