@@ -1,0 +1,53 @@
+{
+  "Rwandan_Genocide": {
+    "Overview": {
+      "Other_names": "Genocide against the Tutsi",
+      "Period": "7 April – 15 July 1994",
+      "Location": "Rwanda",
+      "Target": ["Tutsi population", "Moderate Hutus"],
+      "Attack_Type": ["Genocide", "Mass murder", "Genocidal rape"],
+      "Deaths": "Estimated 491,000–800,000 Tutsis & 10,000 Twa",
+      "Victims_Raped": "250,000 to 500,000 Tutsi women"
+    },
+    "Background": {
+      "Pre-independence_History": {
+        "Twa_Settlement_Period": "8000 BC – 3000 BC",
+        "Bantu_Migrations": "700 BC – 1500 AD",
+        "Formation_of_Social_Structures": ["Clans (ubwoko)", "Kingdoms"],
+        "Colonial_Rule": ["German (1897-1917)", "Belgian (1917-1962)"]
+      },
+      "Post-independence_History": {
+        "Hutu_Empowerment": ["Rwandan Revolution", "Hutu-led governments"],
+        "Tutsi_Exiles": "Formation of Rwandan Patriotic Front (RPF)"
+      }
+    },
+    "Perpetrators": {
+      "Government": "Hutu-led government (led by Théoneste Bagosora)",
+      "Militias": ["Interahamwe (led by Robert Kajuga)", "Impuzamugambi (led by Jean-Bosco Barayagwiza and Hassan Ngeze)"],
+      "Financiers": "Félicien Kabuga",
+      "Local_Extremists": "Hutu extremists"
+    },
+    "Motive": "Anti-Tutsi racism, Hutu Power ideology",
+    "International_Involvement": {
+      "United_Nations": "UNAMIR's limited role and challenges",
+      "France": "Relations and military support, Opération Turquoise",
+      "United_States": "Awareness and lack of intervention",
+      "Arms_Sales": ["South Africa", "France", "Egypt"]
+    },
+    "Aftermath": {
+      "Refugee_Crisis": "Mass exodus of Hutus to neighboring countries",
+      "Domestic_Reconstruction": "Rebuilding of government and social structures",
+      "Justice_System": ["International Criminal Tribunal for Rwanda", "Gacaca courts", "Traditional courts"],
+      "Censorship_and_Laws": ["Genocide ideology laws", "Censorship of divisionism"],
+      "Survivors": "Conditions and representation of survivors"
+    },
+    "Commemoration_and_Memorials": {
+      "Public_Holidays": ["Genocide Memorial Day", "Liberation Day"],
+      "Memorials": ["Kigali Genocide Memorial Centre", "Murambi Genocide Memorial"]
+    },
+    "Media_and_Popular_Culture": {
+      "Films": ["Hotel Rwanda", "Shooting Dogs"],
+      "Books": ["We Wish to Inform You That Tomorrow We Will Be Killed With Our Families", "Shake Hands with the Devil"]
+    }
+  }
+}
