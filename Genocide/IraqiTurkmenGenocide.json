@@ -1,0 +1,81 @@
+{
+  "Iraqi_Turkmen_Genocide": {
+    "Overview": {
+      "Context": ["2014 Northern Iraq offensive", "War in Iraq (2013–2017)", "Global War on Terror", "ISIS Conflict"],
+      "Location": "Iraq",
+      "Date_Range": "1 August 2014 – 31 August 2017",
+      "Target": "Iraqi Turkmen",
+      "Attack_Type": ["Genocidal massacre", "Ethnic cleansing", "Forced conversion", "Genocidal rape", "Sexual slavery"],
+      "Victims": {
+        "Killed": "At least 2,200 to 3,500",
+        "Displaced": "over 600,000",
+        "Missing": "around 4,900"
+      },
+      "Perpetrators": "Islamic State (IS)",
+      "Motive": ["Anti-Turkish sentiment", "Religious persecution for Shia Turkmens", "Human trafficking"]
+    },
+    "Background_and_Lead_Up": {
+      "Iraqi_Turkmen": {
+        "Description": "Third largest ethnic group in Iraq of Turkic descent",
+        "Religious_Division": "Evenly divided between Sunni and Shia",
+        "Historical_Region": "Turkmeneli",
+        "Previous_Targets": ["Altun Kupri massacre", "Gavurbağı massacre", "1959 Kirkuk massacre", "1924 Kirkuk massacre"]
+      },
+      "Lead_Up": {
+        "June_2014_Offensive": "ISIS captured many Turkmen-majority lands",
+        "Affected_Areas": ["Mosul", "Talafar", "Tikrit", "parts of Kirkuk and Diyala provinces"]
+      }
+    },
+    "Genocide_Events": {
+      "June_2014": {
+        "Talafar_Capture": {
+          "Abducted": "1,300 Iraqi Turkmen",
+          "Massacred": "300 Turkmen"
+        },
+        "Displacement": "350,000 Turkmen from Tal Afar became displaced",
+        "Massacres": [
+          {
+            "Date": "16 June 2014",
+            "Location": ["Chardaghli", "Karanaz", "Beshir", "Biravchi"],
+            "Killed": "at least 40 Turkmen"
+          },
+          {
+            "Date": "17 June 2014",
+            "Location": "Beshir",
+            "Killed": "52 Turkmen"
+          },
+          {
+            "Date": "18 June 2014",
+            "Location": "Amirli and Tuz clashes",
+            "Killed": "20 Turkmen civilians"
+          }
+        ]
+      },
+      "Sexual_Slavery": {
+        "Total_Women_Captured": "600 Turkmen women",
+        "Prison_Location": "ISIS makeshift prisons in Syria"
+      },
+      "Destruction_of_Heritage": {
+        "Mosques_Destroyed": ["Mausoleum of Yahya Abu al-Qasim", "Imam al-Baher Mosque"],
+        "Libraries_Destroyed": ["Oldest library in Tal Afar", "Another library with over 1,500 historical books in Diyala"]
+      }
+    },
+    "Official_Recognitions": {
+      "Iraqi_Parliament": "2017",
+      "United_Nations": "2018"
+    },
+    "References": [
+      {
+        "Source": "The New York Times",
+        "Date": "31 August 2017",
+        "Detail": "ISIS loses another city to U.S.-backed Iraqi Forces"
+      },
+      {
+        "Source": "Al Jazeera",
+        "Date": "Retrieved 2023-07-28",
+        "Detail": "Iraq's Turkmen mobilize for a post-ISIL future"
+      }
+      // More references...
+    ]
+  }
+}
