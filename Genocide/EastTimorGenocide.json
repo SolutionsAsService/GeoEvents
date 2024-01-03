@@ -1,0 +1,77 @@
+{
+  "East_Timor_Genocide": {
+    "Summary": "The East Timor genocide refers to the pacification campaigns of state terrorism waged by the Indonesian New Order government during the Indonesian invasion and occupation of East Timor, resulting in an estimated 100,000 to 300,000 deaths.",
+    "Context": {
+      "Part_Of": "Indonesian occupation of East Timor",
+      "Location": "East Timor province, Indonesia",
+      "Date_Range": "1975 to 1999",
+      "Target": "Population of East Timor",
+      "Attack_Type": [
+        "Forced disappearance",
+        "Genocidal massacre"
+      ],
+      "Motive": [
+        "Forced capitulation of the East Timorese people to Indonesian authority",
+        "Greater Indonesia"
+      ]
+    },
+    "Initial_Invasion": {
+      "Description": "Indonesian forces engaged in the wholesale massacre of Timorese civilians, targeting FRETILIN supporters and Chinese migrants among others, leading to thousands of deaths and widespread terror.",
+      "Significant_Events": [
+        {
+          "Event": "Santa Cruz massacre",
+          "Description": "Indonesian troops opened fire on a crowd during a memorial mass, killing at least 250 Timorese."
+        },
+        {
+          "Event": "Massacre at Lacluta",
+          "Description": "Indonesian soldiers massacred at least 400 villagers in September 1981."
+        }
+        // More events...
+      ]
+    },
+    "Resettlement_and_Enforced_Starvation": {
+      "Description": "Civilians were forced into camps, resettled in strategic hamlets, and subjected to enforced starvation, leading to tens of thousands of deaths from malnutrition and disease."
+    },
+    "Indonesian_Pacification_Operations": {
+      "Operation_Clean_Sweep": {
+        "Year": "1983",
+        "Description": "Renewed wave of massacres, summary executions, and disappearances following the breakdown of a ceasefire agreement."
+      },
+      "Operation_Keamanan": {
+        "Year": "1981-82",
+        "Description": "Indonesian forces conscripted Timorese men and boys as human shields in the 'fence of legs' program, leading to many deaths."
+      }
+      // More operations...
+    },
+    "Violence_Against_Women": {
+      "Description": "Women faced rape, sexual abuse, harassment, intimidation, and forced marriage, often as a form of punishment or control."
+    },
+    "Number_of_Deaths": {
+      "Estimated_Range": "100,000-300,000",
+      "Percentage_of_Population": "Significant portion of East Timor's population",
+      "Attribution": "70% of the violent killings attributed to Indonesian forces according to the UN truth commission report."
+    },
+    "Depictions_in_Fiction": [
+      {
+        "Title": "Balibo",
+        "Year": "2009"
+      },
+      {
+        "Title": "Amok",
+        "Author": "Barry Eisler",
+        "Year": "2022"
+      }
+    ],
+    "References": [
+      {
+        "Number": "[1][2][3]",
+        "Detail": "Consensus on genocide classification by various sources."
+      },
+      {
+        "Number": "[4]",
+        "Detail": "Disagreement on certain aspects of the definition by other scholars."
+      }
+      // More references...
+    ]
+  }
+}
