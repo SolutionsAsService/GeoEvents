@@ -1,0 +1,114 @@
+{
+  "Darfur_genocide": {
+    "Context": ["War in Darfur", "War in Sudan (2023)", "Darfur Conflict"],
+    "location": "Darfur, Sudan",
+    "date_range": "23 February 2003 – present",
+    "targets": [
+      "Darfuri men, women, and children from Fur, Masalit, and Zaghawa ethnic groups"
+    ],
+    "attack_types": ["Genocide", "mass murder", "genocidal rape"],
+    "death_toll": "between 80,000 and 400,000",
+    "injured": "Unknown",
+    "victims": {
+      "raped": "At least 9,300 women and men",
+      "affected": "Over 3 million Darfuri people in various ways"
+    },
+    "perpetrators": [
+      "Sudanese government",
+      "Al-Bashir regime",
+      "Transitional Military Council",
+      "Sudanese Armed Forces",
+      "Rapid Support Forces",
+      "Janjaweed"
+    ],
+    "recent_flare_up": {
+      "year": 2023,
+      "context": "ethnic violence against Masalit people",
+      "result": "many affected fleeing to Chad"
+    },
+    "origins": {
+      "initial_conflict": "Civil war between Khartoum national governments and two rebel groups in Darfur: the Justice and Equality Movement and the Sudan Liberation Movement/Army",
+      "second_factor": "Civil war between Christians, animist Black Southerners, and Arab-dominated government since Sudan's independence in 1956",
+      "ethnic_conflict": "Persistent with racism at its roots, split between 'African' descent and 'Arab' descent populations"
+    },
+    "casualty_estimates": {
+      "UN_2013_estimate": "up to 300,000 killed",
+      "Sudanese_government_claim": "number of deaths grossly inflated",
+      "2015_estimate": "between 100,000 and 400,000"
+    },
+    "continuation": "Violence continued into 2016 with allegations of government using chemical weapons",
+    "war_crimes": {
+      "Arab_Janjaweed_militias": "major player in the conflict",
+      "BBC_reports": "first reported on the issue of ethnic cleansing in November 2003",
+      "HRW_report": "Darfur Destroyed: Ethnic Cleansing by Government and Militia Forces in Western Sudan released in April 2004"
+    },
+    "rape_as_a_tool_of_genocide": {
+      "perpetrators": "Sudanese government forces and Janjaweed",
+      "victims": "Not just women, but children as well, reports of infants being bludgeoned to death and sexual mutilation of victims",
+      "settings": [
+        "Forces surrounded village and attacked girls and women who left the village",
+        "Forces went house to house killing boys and men while raping girls and women",
+        "Forces went to nearby villages or IDP camps or across the border into Chad to rape"
+      ],
+      "public_nature": "Often carried out in front of others including family members"
+    },
+    "international_intervention": {
+      "UNAMID": {
+        "establishment": "31 July 2007",
+        "headquarters": "El Fasher, North Darfur",
+        "sector_headquarters": ["El Geneina (West Darfur)", "Nyala (South Darfur)", "Zalingei (Central Darfur)", "Ed Daein (East Darfur)"],
+        "challenges": ["security", "logistical constraints", "shortages in equipment and infrastructure"],
+        "budget": "$1,039,573.2 for the fiscal year 2016–2017",
+        "troop_strength": "25,987 uniformed peacekeepers on 31 July 2007"
+      },
+      "2018_update": "UNAMID forces are exiting as the region is increasingly stable"
+    },
+    "reactions": {
+      "Crisis_in_Darfur_project": "Google Earth and the United States Holocaust Memorial Museum project to map atrocities in Darfur",
+      "Colin_Powell_testimony": "Genocide had been carried out in Darfur by the Sudanese government and the Janjaweed",
+      "George_W_Bush_statement": "Confirmed the situation in Darfur was a genocide and announced tightened economic sanctions on Sudan"
+    },
+    "ICC_proceedings": {
+      "indictment_for_Omar_Bashir": {
+        "date": "14 July 2009",
+        "charges": ["crimes against humanity", "ordering genocide in Darfur"]
+      },
+      "additional_arrest_warrants": "Ahmed Haroun, Ali Kushayb, Bahar Abu Garda, Abdallah Banda, Saleh Jerbo, Abdel Rahim Mohammed Hussein",
+      "Ali_Kushayb_custody": "9 June 2020"
+    },
+    "Darfur_refugee_camps": {
+      "location": "Eastern Chad",
+      "number_of_camps": 13,
+      "refugee_population": "About 360,000 Darfuris",
+      "UN_proposal": "Responsibility for protection and voluntary return of IDPs to their villages of origin in West Darfur"
+    },
+    "media_and_popular_culture": {
+      "films": [
+        "The Devil Came on Horseback (2007)",
+        "Attack on Darfur (2009)",
+        "Darfur Now (2007)",
+        "Sand And Sorrow: A New Documentary about Darfur (2007)"
+      ]
+    },
+    "references": [
+      "Gingerich, Tara; Leaning, Jennifer (2004). The Use of Rape as a Weapon of War in the Conflict in Darfur, Sudan",
+      "Williams 2012, p. 192.",
+      "Straus 2005",
+      "Al Jazeera 2013.",
+      "Human Rights Watch b 2004.",
+      "Hirsch 2012.",
+      "Rothe 2009, p. 53.",
+      "Hagan, Rymond-Richmond & Parker 2005, pp. 525–562.",
+      "UNAMID website 2015-05-28.",
+      "UN News 2018-09-28.",
+      "Puzzanghera, Jim (2007-04-11). Google puts Darfur crisis on its map.",
+      "Tran 2007.",
+      "January 2007, pp. 114–115.",
+      "Markusen 2009, p. 99.",
+      "George W. Bush White House archives.",
+      "Kristof, Nicholas (2008-01-24). Opinion | China's Genocide Olympics.",
+      "Kelly & Moreno-Ocampo 2016, p. 112.",
+      "Shinn, David H. (2009). China and the Conflict in Darfur.",
+      "International Commission of Inquiry on Darfur to the United Nations Secretary-General.",
+      "Lanz, David (2009). Save Darfur: A Movement and its Discontents.",
+     
