@@ -1,0 +1,58 @@
+{
+  "Ikiza": {
+    "translation": ["Catastrophe", "Great Calamity", "Scourge"],
+    "other_name": "Ubwicanyi (Killings)",
+    "description": "A series of mass killings often characterized as a genocide committed in Burundi in 1972 by the Tutsi-dominated army and government against primarily educated and elite Hutus.",
+    "death_toll": {
+      "conservative_estimates": "100,000 to 150,000",
+      "higher_estimates": "Up to 300,000"
+    },
+    "perpetrators": "Tutsi-Hima dictatorship",
+    "motive": "Retribution for Hutu rebellion"
+  },
+  "location": {
+    "country": "Burundi",
+    "map_info": "Contemporary United States Central Intelligence Agency map of Burundi showing areas of Hutu rebel activity and refugee concentrations from the Ikiza"
+  },
+  "date": "April–August 1972",
+  "target": ["Hutus, particularly the educated and elite", "some Tutsi-Banyaruguru"],
+  "attack_type": ["Genocide", "mass murder"],
+  "background": {
+    "history_of_burundi": "Main article",
+    "ethnic_tensions": "Three main indigenous ethnic groups: Hutu, Tutsi, and Twa",
+    "colonial_history": {
+      "german_colonization": "Late 1800s",
+      "german_east_africa": "Part of German East Africa with indirect rule",
+      "belgian_occupation_WWI": "Occupied by Belgian troops from the Belgian Congo during World War I",
+      "league_of_nations_mandate": "Administered as 'Ruanda-Urundi' by Belgium under the League of Nations mandate after WWI",
+      "un_trust_territory": "Became a trust territory under Belgian administration after WWII"
+    },
+    "political_developments": {
+      "participation_in_politics": "Allowed from 1959",
+      "limited_self_government": "Established in 1961",
+      "independence": "July 1962 as the Kingdom of Burundi"
+    },
+    "ethnic_anxieties": "Violence against Tutsis in the Rwandan Revolution of 1962–1963 heightened domestic ethnic anxieties",
+    "tutsi_dominated_regimes": "Keen to prevent a similar revolution in their own country",
+    "assassinations_and_coup_attempts": "Generated murder of numerous Hutu members of Parliament and sparked ethnic violence in rural areas",
+    "population": "Approximately 85% Hutu, 14% Tutsi, and 1% Twa"
+  },
+  "events": {
+    "tutsi_subgroups_tensions": "Tensions rose between the Tutsi-Banyaruguru and the Tutsi-Hima",
+    "return_of_ntare_v": "Detained on return and kept under house arrest; circumstances of return disputed",
+    "ntare_v_fate_debate": "Government debated his fate with some ministers favoring custody while others wanted execution",
+    "hutu_uprising": "Began with attacks in Bujumbura and across southern provinces",
+    "rebel_characteristics": "Bands of 10-30 individuals, armed with various weapons, committing atrocities against Tutsis and burning homes",
+    "government_response": "Declared a state of emergency and launched counter-attacks; alleged perpetrators arrested and executed without public trials",
+    "killings": "After suppressing the rebellion, embarked on a programme of repression, targeting remaining Hutu elites",
+    "international_reactions": "Varied, with some countries offering aid and others condemning the violence; little direct intervention"
+  },
+  "legacy": {
+    "memory": "Remembered as the 'Ikiza' or 'Ubwicanyi'",
+    "academic_consensus": "No academic consensus on whether it constituted genocide, a selective genocide, a double genocide, or ethnic cleansing",
+    "impact_on_burundi": "Secured the domination of Burundian society by Tutsis, particularly the Hima; virtually eliminated a generation of educated Hutus",
+    "refugees": "Prompted a large mostly-Hutu exodus to neighboring countries",
+    "international_effects": "Intensified ethnic tensions in Rwanda and influenced regional politics",
+    "truth_and_reconciliation_commission": "Established to investigate atrocities and repression in the country between 1962 and 2008"
+  }
+}
