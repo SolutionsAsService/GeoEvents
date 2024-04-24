@@ -1,0 +1,187 @@
+{
+  "timeline": [
+    {
+      "year_bce": 13000,
+      "events": [
+        {
+          "description": "End of the most recent Ice Age."
+        },
+        {
+          "description": "The Altamira Cave paintings",
+          "location": "Spain",
+          "details": "A bison on the ceiling of the Altamira Cave."
+        }
+      ]
+    },
+    {
+      "year_bce": 11000,
+      "events": [
+        {
+          "location": "Franchthi Cave, Greece",
+          "description": "Humans are eating lentils, vetch and pistachios."
+        },
+        {
+          "location": "Abu Hureyra, Syria",
+          "description": "Humans are cultivating rye."
+        }
+      ]
+    },
+    {
+      "year_bce": 9600,
+      "events": [
+        {
+          "location": "Jericho, Palestine",
+          "description": "Founding of a permanent settlement."
+        }
+      ]
+    },
+    {
+      "year_bce": 9500,
+      "events": [
+        {
+          "location": "Levant (Syria, Israel, Palestine, Lebanon, Jordan, Cyprus, Turkey)",
+          "description": "Cultivation of emmer and einkorn wheat, barley, peas, lentils, bitter vetch, chickpeas, and flax."
+        },
+        {
+          "location": "Göbekli Tepe, Turkey",
+          "description": "Construction of a temple-shrine.",
+          "details": "The excavation site at Göbekli Tepe."
+        }
+      ]
+    },
+    {
+      "year_bce": 9400,
+      "events": [
+        {
+          "location": "Jericho, Palestine",
+          "description": "The settlement now consists of 70 dwellings, a stone wall, and a tower.",
+          "details": "A view of the remains of the earliest wall/tower at Jericho."
+        }
+      ]
+    },
+    {
+      "year_bce": 9100,
+      "events": [
+        {
+          "location": "Klimonas, Cyprus",
+          "description": "Farmers build a permanent agrarian settlement with mud-brick buildings for agricultural storage."
+        }
+      ]
+    },
+    {
+      "year_bce": 9000,
+      "events": [
+        {
+          "location": "Denmark",
+          "description": "Oldest surviving wooden bows.",
+          "details": "A German bow used by the Holmegaard culture that dates to 9000 BCE."
+        },
+        {
+          "description": "Domestication of sheep in several locations in central and southwest Asia."
+        }
+      ]
+    },
+    {
+      "year_bce": 8820,
+      "events": [
+        {
+          "location": "Amesbury, UK: England",
+          "description": "A permanent settlement begins."
+        }
+      ]
+    },
+    {
+      "year_bce": 8700,
+      "events": [
+        {
+          "location": "Iraq",
+          "description": "First evidence of metalworking with a copper pendant."
+        }
+      ]
+    },
+    {
+      "year_bce": 8000,
+      "events": [
+        {
+          "location": "Egypt",
+          "description": "Agriculture is well-established along the banks of the Nile."
+        },
+        {
+          "location": "Iran",
+          "description": "Domestication of goats."
+        },
+        {
+          "description": "Domestication of pigs in the Near East, China, and Germany."
+        },
+        {
+          "location": "Mexico",
+          "description": "Domestication of squash."
+        }
+      ]
+    },
+    {
+      "year_bce": 7500,
+      "events": [
+        {
+          "locations": "Cyprus; Near East",
+          "description": "Domestication of cats."
+        }
+      ]
+    },
+    {
+      "year_bce": 7000,
+      "events": [
+        {
+          "location": "Mesopotamia, Iraq",
+          "description": "Agriculture is well-established."
+        },
+        {
+          "location": "Franchthi Cave, Greece",
+          "description": "Dwellers have domesticated emmer wheat, barley, sheep, and goats."
+        },
+        {
+          "location": "Çatal Hüyük, Turkey",
+          "population": "Between 5,000 and 7,000 people.",
+          "details": "A view of the archaeological excavations at Çatalhöyük. Woven linen cloth is being made."
+        },
+        {
+          "description": "Domestication of cattle in North Africa, India, and Mesopotamia."
+        }
+      ]
+    },
+    {
+      "year_bce": 6500,
+      "events": [
+        {
+          "location": "Mesopotamia and Egypt",
+          "description": "Agriculture using irrigation begins."
+        }
+      ]
+    },
+    {
+      "year_bce": 6000,
+      "events": [
+        {
+          "location": "Erbil, Mesopotamia, Iraq",
+          "description": "A fortified settlement is established."
+        },
+        {
+          "location": "Georgia",
+          "description": "Earliest evidence of winemaking."
+        },
+        {
+          "description": "Domestication of chickens in India and Southeast Asia."
+        },
+        {
+          "location": "Peru",
+          "description": "Domestication of llamas."
+        },
+        {
+          "location": "Çatal Hüyük, Turkey",
+          "description": "The Seated Woman of Çatal Hüyük figurine is made.",
+          "details": "The head and right arm rest are restorations."
+        }
+      ]
+    }
+  ]
+}
