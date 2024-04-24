@@ -182,6 +182,209 @@
           "details": "The head and right arm rest are restorations."
         }
       ]
+    },
+    {
+      "year_bce": 5500,
+      "events": [
+        {
+          "location": "Kuwait",
+          "description": "First evidence of sailing boats."
+        },
+        {
+          "location": "Serbia",
+          "description": "First evidence of copper smelting."
+        }
+      ]
+    },
+    {
+      "year_bce": 5000,
+      "events": [
+        {
+          "location": "Argos, Greece",
+          "description": "A permanent settlement is founded."
+        },
+        {
+          "location": "Mesopotamia and the Indus Valley (Iraq; Pakistan)",
+          "description": "Invention of the ard plow."
+        },
+        {
+          "location": "Iran",
+          "description": "Oldest traces of beer brewing."
+        },
+        {
+          "location": "China",
+          "description": "Oldest evidence of rowing oars."
+        },
+        {
+          "location": "Mexico",
+          "description": "Domestication of maize."
+        },
+        {
+          "location": "Fayum, Egypt",
+          "description": "Woven flax cloth is made."
+        },
+        {
+          "location": "Africa’s Sahel region",
+          "description": "Rice and sorghum are domesticated."
+        },
+        {
+          "location": "Romania",
+          "description": "The Sitting Woman and Thinker of Cernavoda figurines are made by the Hamangia culture.",
+          "details": "The Thinker of Cernavoda (left) and Woman of Hamangia."
+        }
+      ]
+    },
+    {
+      "year_bce": 4500,
+      "events": [
+        {
+          "location": "Serbia",
+          "description": "First evidence of bronze making, using copper and tin."
+        }
+      ]
+    },
+    {
+      "year_bce": 4400,
+      "events": [
+        {
+          "location": "Egypt",
+          "description": "Invention of the two-beamed horizontal loom."
+        }
+      ]
+    },
+    {
+      "year_bce": 4000,
+      "events": [
+        {
+          "description": "The first wheeled vehicles appear in Mesopotamia, the Indus Valley, and the Northern Caucasus."
+        },
+        {
+          "location": "Ukraine; Kazakhstan",
+          "description": "Domestication of the horse."
+        }
+      ]
+    },
+    {
+      "year_bce": 3800,
+      "events": [
+        {
+          "location": "Iraq",
+          "description": "The Sumerians found the city of Ur.",
+          "details": "The ruins of the City of Ur."
+        }
+      ]
+    },
+    {
+      "year_bce": 3761,
+      "events": [
+        {
+          "description": "The earliest date in the Jewish calendar, representing the year before the creation of the world (Anno Mundi)."
+        }
+      ]
+    },
+    {
+      "year_bce": 3700,
+      "events": [
+        {
+          "location": "Ireland",
+          "description": "First evidence of agricultural field systems and stone walls."
+        }
+      ]
+    },
+    {
+      "year_bce": 3650,
+      "events": [
+        {
+          "location": "Crete",
+          "description": "The Minoan culture begins."
+        }
+      ]
+    },
+    {
+      "year_bce": 3500,
+      "events": [
+        {
+          "location": "Mesopotamia and the Indus Valley (Iraq; Pakistan)",
+          "description": "The potter’s wheel is invented."
+        },
+        {
+          "description": "Glassmaking begins in Mesopotamia and Egypt."
+        }
+      ]
+    },
+    {
+      "year_bce": 3400,
+      "events": [
+        {
+          "location": "Egypt",
+          "description": "The first forged bronze nails."
+        }
+      ]
+    },
+    {
+      "year_bce": 3300,
+      "events": [
+        {
+          "description": "The Bronze Age begins in the Near East."
+        }
+      ]
+    },
+    {
+      "year_bce": 3200,
+      "events": [
+        {
+          "location": "Ireland",
+          "description": "Neolithic farmers construct the Newgrange monument with stone tools.",
+          "details": "An aerial view of Newgrange."
+        },
+        {
+          "description": "The first writing systems appear in Mesopotamia (cuneiform), Egypt (hieroglyphics), and the Indus Valley (Indus Script).",
+          "details": "An inscription on a clay tablet written in the archaic cuneiform script and dating to c. 26th Century BCE."
+        }
+      ]
+    },
+    {
+      "year_bce": 3100,
+      "events": [
+        {
+          "description": "Menes or Narmer (possibly the same person) unites Upper and Lower Egypt."
+        }
+      ]
+    },
+    {
+      "year_bce": 3000,
+      "events": [
+        {
+          "location": "Egypt",
+          "description": "First evidence of ox-drawn plows."
+        },
+        {
+          "description": "Smelting of iron ore to make wrought iron begins in the Middle East."
+        },
+        {
+          "location": "Japan",
+          "description": "The Jomon culture begins making flame-style ceramic vessels.",
+          "details": "A flame-style vessel made by the Jomon culture in about 2500 BCE."
+        }
+      ]
+    },
+    {
+      "year_bce": 2700,
+      "events": [
+        {
+          "location": "Egypt",
+          "description": "The Old Kingdom begins."
+        },
+        {
+          "location": "Iraq",
+          "description": "The Sumerians invent the first abacus counting machine."
+        },
+        {
+          "location": "Pakistan; India",
+          "description": "The Indus Valley culture is using seals carved with pictographic symbols in commercial transactions.",
+          "details": "Seals found at the Indus Valley city of Mohenjo-Daro."
+        }
+      ]
     }
   ]
 }
